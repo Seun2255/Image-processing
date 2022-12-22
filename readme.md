@@ -7,7 +7,7 @@
 
 - ### open the folder in your terminal/ command line
 
-- ### to test each code segment type in, python {name of code file. e.g color_extraction.py} and click enter
+- ### to test each code segment type in, 'python {name of code file. e.g color_extraction.py}' and click enter
 
 - ### to view the results of the various code segments check the results folder.
 
